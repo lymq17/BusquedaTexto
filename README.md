@@ -1,8 +1,6 @@
 ﻿@'
 # Búsqueda de patrones en texto
 
-![Java](https://img.shields.io/badge/Java-17%2B-orange)
-
 Implementación en Java de dos algoritmos clásicos de búsqueda de cadenas: **Knuth-Morris-Pratt** y **Boyer-Moore**. El programa localiza todas las ocurrencias de un patrón dentro de un texto y cuenta las comparaciones de caracteres que realiza cada uno, para poder contrastar su rendimiento.
 
 ## Algoritmos
