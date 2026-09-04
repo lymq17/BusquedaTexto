@@ -43,4 +43,3 @@ Comparaciones de caracteres: 30
 ```
 
 Boyer-Moore resuelve la misma búsqueda mirando menos de la cuarta parte de los caracteres.
-'@ | Set-Content -Encoding UTF8 README.md
