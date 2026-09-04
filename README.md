@@ -10,15 +10,6 @@ Implementación en Java de dos algoritmos clásicos de búsqueda de cadenas: **K
 | Knuth-Morris-Pratt | O(m) | O(n + m) | Tabla LPS: al fallar reaprovecha el prefijo ya comparado y nunca retrocede sobre el texto |
 | Boyer-Moore | O(m + σ) | O(n·m) en el peor caso, sublineal en la práctica | Compara de derecha a izquierda y salta bloques con las reglas de mal carácter y sufijo bueno |
 
-## Estructura
-
-```
-src/
-├── Main.java          Punto de entrada, ejecuta y compara ambos algoritmos
-├── KMP.java
-└── BoyerMoore.java
-```
-
 ## Ejecución
 
 ```bash
